@@ -24,4 +24,32 @@ The analysis revealed minimal variation in average price, ratings, discount perc
 ### Business Implication
 
 Further analysis is required to evaluate additional factors such as seller quality, stock availability, brand distribution, product assortment, and customer demand patterns.
+---
+### Analysis 2: Impact of Discount Percentage on Sales Volume
+
+#### Objective
+
+Evaluate whether higher discount percentages lead to increased product sales.
+
+#### Method
+
+Performed Pearson correlation analysis between discount percentage and units sold.
+
+#### Result
+
+Correlation coefficient = -0.000088
+
+#### Interpretation
+
+The correlation coefficient is extremely close to zero, indicating no meaningful linear relationship between discount percentage and sales volume.
+
+#### Key Insight
+
+Products offering larger discounts did not consistently achieve higher sales volumes. Based on this dataset, discount percentage does not appear to be a primary driver of sales performance.
+
+#### Business Implication
+
+Decision-makers should investigate other factors such as product category, brand reputation, customer reviews, inventory availability, and seller performance rather than relying solely on discount strategies.
+
+
 
