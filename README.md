@@ -50,6 +50,25 @@ Products offering larger discounts did not consistently achieve higher sales vol
 #### Business Implication
 
 Decision-makers should investigate other factors such as product category, brand reputation, customer reviews, inventory availability, and seller performance rather than relying solely on discount strategies.
+---
+
+### Analysis 3: Revenue-Based Category Performance
+
+#### Objective
+
+Evaluate category performance using revenue instead of sales volume.
+
+#### Findings
+
+Revenue rankings differed slightly from unit-sales rankings. Beauty and Fashion categories moved higher when evaluated on revenue, despite not being among the highest categories in terms of units sold.
+
+#### Key Insight
+
+This suggests that certain categories generate higher revenue per unit sold, indicating stronger monetization potential. Revenue-based analysis provides a more accurate measure of business value than sales volume alone.
+
+#### Business Implication
+
+Decision-makers should evaluate both sales volume and revenue when allocating marketing budgets, inventory resources, and category expansion efforts.
 
 
 
