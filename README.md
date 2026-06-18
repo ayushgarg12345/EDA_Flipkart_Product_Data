@@ -70,5 +70,28 @@ This suggests that certain categories generate higher revenue per unit sold, ind
 
 Decision-makers should evaluate both sales volume and revenue when allocating marketing budgets, inventory resources, and category expansion efforts.
 
+---
+
+### Revenue Contribution by Price Segment
+
+To understand how products from different price ranges contribute to overall business performance, the products were divided into four segments: Budget, Mid-Range, Premium, and Luxury.
+
+The analysis showed that the Luxury segment generated the highest revenue, followed by Premium products. Although lower-priced products are generally more accessible to customers, their contribution to total revenue was significantly lower compared to high-priced products.
+
+This indicates that product value plays a major role in revenue generation. Even when sales volume is similar, higher-priced products contribute substantially more to overall business performance.
+
+From a business perspective, this suggests that maintaining a strong portfolio of premium and luxury products can have a significant impact on revenue growth while budget products may help attract a larger customer base.
+
+---
+
+### Product Price Distribution Across Categories
+
+A box plot was used to compare the distribution of product prices across different categories.
+
+The median prices across all categories were found to be very similar. In addition, the spread of prices and the overall range showed little variation between categories.
+
+This suggests that the dataset contains a relatively balanced price distribution across product categories. No category demonstrated a significantly higher or lower pricing structure compared to others.
+
+The analysis indicates that category-level differences in revenue and sales are unlikely to be driven solely by product pricing.
 
 
