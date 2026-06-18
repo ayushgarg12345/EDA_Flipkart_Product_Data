@@ -105,3 +105,27 @@ The results showed that average sales remained relatively consistent across all 
 This suggests that product ratings alone were not a major factor influencing sales volume within the dataset. Products with higher ratings did not consistently outperform lower-rated products in terms of units sold.
 
 From a business perspective, this indicates that factors beyond customer ratings, such as pricing, product availability, brand recognition, or marketing efforts, may play a larger role in driving sales performance.
+
+---
+
+Analysis: Review Count vs Sales Performance
+Objective
+
+The purpose of this analysis was to examine whether products with a higher number of customer reviews tend to achieve greater sales volumes.
+
+Method
+
+A scatter plot was created using review count and units sold for all products in the dataset. Each point represents an individual product listing.
+
+Findings
+
+The visualization did not reveal a clear relationship between review count and sales volume. Products with both low and high review counts were distributed across the full range of sales values. No noticeable upward or downward trend was observed.
+
+Key Insight
+
+The number of customer reviews does not appear to be a significant factor influencing sales performance within this dataset. Products with a large number of reviews did not consistently achieve higher sales compared to products with fewer reviews.
+
+Business Implication
+
+Based on the available data, review count alone may not be a reliable indicator of product success. Other factors such as product positioning, pricing strategy, brand value, marketing efforts, or inventory availability may have a greater impact on sales performance.
+
