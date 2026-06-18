@@ -129,3 +129,25 @@ Business Implication
 
 Based on the available data, review count alone may not be a reliable indicator of product success. Other factors such as product positioning, pricing strategy, brand value, marketing efforts, or inventory availability may have a greater impact on sales performance.
 
+---
+
+Impact of Return Policy on Sales Performance
+Objective
+
+The objective of this analysis was to examine whether products with longer return policies achieve higher sales volumes compared to products with shorter or no return periods.
+
+Method
+
+Products were grouped based on their return policy duration, and the average units sold were calculated for each return policy category. A line chart was used to compare sales performance across different return periods.
+
+Findings
+
+The analysis showed only minor differences in average units sold across return policy durations. Products with a 10-day return policy recorded the highest average sales, while products with a 30-day return policy recorded the lowest. However, the overall variation between categories was very small.
+
+Key Insight
+
+The results suggest that return policy duration does not have a significant impact on sales performance within this dataset. Products offering longer return periods did not consistently achieve higher sales volumes than products with shorter return policies.
+
+Business Implication
+
+While flexible return policies may improve customer confidence and satisfaction, this analysis indicates that return policy duration alone is unlikely to be a major driver of product sales. Businesses should consider other factors such as product quality, pricing strategy, brand reputation, and marketing efforts when attempting to increase sales performance.
