@@ -94,4 +94,14 @@ This suggests that the dataset contains a relatively balanced price distribution
 
 The analysis indicates that category-level differences in revenue and sales are unlikely to be driven solely by product pricing.
 
+---
 
+Impact of Product Ratings on Sales Performance
+
+To understand whether highly rated products achieve better sales performance, products were grouped based on their ratings and the average units sold were calculated for each rating level.
+
+The results showed that average sales remained relatively consistent across all rating levels, generally ranging between 2,450 and 2,570 units sold. No clear upward or downward trend was observed as ratings increased.
+
+This suggests that product ratings alone were not a major factor influencing sales volume within the dataset. Products with higher ratings did not consistently outperform lower-rated products in terms of units sold.
+
+From a business perspective, this indicates that factors beyond customer ratings, such as pricing, product availability, brand recognition, or marketing efforts, may play a larger role in driving sales performance.
